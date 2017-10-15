@@ -2,7 +2,7 @@
   "name": "rocket-theme",
   "displayName": "Rocket Theme",
   "description": "vscode theme inspired by, well, me",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "johnnierocket",
   "engines": {
     "vscode": "^1.17.0"
